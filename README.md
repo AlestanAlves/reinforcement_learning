@@ -1,6 +1,9 @@
 # Reinforcement Learning
 
 Deep Reinforcement Learning at USP - Summer Course
+```
+source activate rlsummer 
+``` 
 
 - [x]  Class 1 - 11/02/2020
 - [ ]  Class 2 - 12/02/2020
