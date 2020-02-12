@@ -11,7 +11,7 @@ source activate rlsummer
 - [ ]  Class 4 - 14/02/2020
 
 
-Instalando e configurando o ambiente:
+### Instalando e configurando o ambiente:
 
 Com o intuito de garantir que nossas instalações não conflitem com instalações nativas do python e que tenhamos todos os pacotes necessários
 a nossas atividades, elaboramos este tutorial para que todos possam ter ambientes padronizados de desenvolvimento.
