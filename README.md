@@ -24,7 +24,7 @@ Utilizaremos o Miniconda como gerenciador de ambientes. Siga o passo a passo, pu
     Baixe o arquivo: https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
     Execute as etapas de instalação conforme o assitente indicar. Não é necessário marcar nenhuma opção extra
 
--Linux:
+- Linux:
         Baixe o arquivo: https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
         Abra o terminal e navegue até a pasta onde o script foi baixado
         Rode a seguinte linha de comando: ```bash ./Miniconda3-latest-Linux-x86_64.sh```
