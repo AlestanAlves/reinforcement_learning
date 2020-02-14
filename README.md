@@ -10,6 +10,33 @@ source activate rlsummer
 - [ ]  Class 3 - 13/02/2020
 - [ ]  Class 4 - 14/02/2020
 
+### Books 
+
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2018.pdf) (Sutton & Barto 2018, 2nd Edition)
+- [Deep Learning](https://www.deeplearningbook.org/) (Goodfellow, Bengio and Courville, 2016)
+
+### Links
+
+- OpenAI [Gym](http://gym.openai.com/)
+- OpenAI [Spinning Up](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
+- Tensorflow [Tutorials](https://www.tensorflow.org/tutorials)
+- Tensorflow [Probability](https://www.tensorflow.org/probability)
+- [Keras](https://keras.io/)
+- https://www.3blue1brown.com/neural-networks
+- An overview of gradient descent optimization algorithms (https://ruder.io/optimizing-gradient-descent/)
+
+### Papers 
+
+- [Challenges of Real-World Reinforcement Learning](https://arxiv.org/abs/1904.12901) (Dulac-Arnold, Mankowitz, and Hester, 2019)
+- [Reinforcement Learning Applications](https://arxiv.org/abs/1908.06973) (Li, 2019)
+- [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf) (Sutton, R.S., McAllester, D.A., Singh, S.P. and Mansour, Y., 2000)
+- [Deep Learning in Neural Networks: An Overview](https://arxiv.org/abs/1404.7828) (Schmidhuber, 2014)
+- [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747) (Ruder, 2017)
+- 
+
+
+
+
 
 ### Instalando e configurando o ambiente:
 
