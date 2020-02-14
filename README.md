@@ -34,10 +34,6 @@ conda activate rlsummer
 - [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf) (Sutton, R.S., McAllester, D.A., Singh, S.P. and Mansour, Y., 2000)
 - [Deep Learning in Neural Networks: An Overview](https://arxiv.org/abs/1404.7828) (Schmidhuber, 2014)
 - [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747) (Ruder, 2017)
-- 
-
-
-
 
 
 ### Instalando e configurando o ambiente:
