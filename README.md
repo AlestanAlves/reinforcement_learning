@@ -10,7 +10,8 @@ conda activate rlsummer
 - [x]  Class 1 - 11/02/2020
 - [x]  Class 2 - 12/02/2020
 - [x]  Class 3 - 13/02/2020
-- [ ]  Class 4 - 14/02/2020
+- [x]  Class 4 - 14/02/2020
+- [x]  Class 5 - 17/02/2020
 
 ### Books 
 
