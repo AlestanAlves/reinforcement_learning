@@ -44,6 +44,10 @@ a nossas atividades, elaboramos este tutorial para que todos possam ter ambiente
 
 Utilizaremos o Miniconda como gerenciador de ambientes. Siga o passo a passo, pulando as etapas que já tiverem sido feitas
 
+Colocar no bash
+
+```export PATH=$HOME/bin:/usr/local/bin:$PATH:~/miniconda3/bin/```
+
 1) Instalando o conda:
 
 - Windows:
