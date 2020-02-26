@@ -1,6 +1,6 @@
-# Reinforcement Learning
+# Deep Reinforcement Learning at USP - Summer Course
 
-Deep Reinforcement Learning at USP - Summer Course
+- Ativar o ambiente
 
 ```
 conda activate rlsummer 
