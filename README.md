@@ -102,3 +102,4 @@ Caso algo saia errado, por favor verifique instruções em: https://docs.conda.i
 - Linux:
     Abra o terminal e rode o comando: ```conda activate rlsummer```
     alternativamente pode ser executado o comando: ```source activate rlsummer```
+    
